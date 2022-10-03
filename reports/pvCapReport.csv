@@ -1,4 +1,4 @@
-pvName,thresholdAlert,capacityUsed.Pct,capacityUsed.Gi,capacityLimit.Gi,pvSpec.Gi,exaProjectID,pvStatus,pvcNamespace,pvcName,pvDirectory
+pvName,thresholdAlert,capacityUsed.Pct,capacityUsed.Gi,capacityLimit.Gi,pvSpec.Gi,projectID,pvStatus,pvcNamespace,pvcName,pvDirectory
 pv-cnvrg-data-cache-commits,false,0%,1106166,0,10000,0,Bound,cnvrg,data-cache-pvc,cache_commits
 pvc-fa305355-bd8c-4bf4-87ce-c7911f0f91f4,false,0%,1106166,0,200,0,Bound,cnvrg,gzkzpub4oh7nf5vkyafx-new-pvc,volume_data
 pvc-ns-08296ac9-78ef-40e2-9a8c-aa543661c6c7,false,0%,0,30,30,4028170987,Bound,cnvrg,elastalert-storage,pvc-ns-08296ac9-78ef-40e2-9a8c-aa543661c6c7-projectId-4028170987
