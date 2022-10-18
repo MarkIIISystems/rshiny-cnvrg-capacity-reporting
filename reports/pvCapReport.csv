@@ -1,5 +1,5 @@
 pvName,thresholdAlert,capacityUsed.Pct,capacityUsed.Gi,quotaLimit.Gi,pvSpec.Gi,cnvrgVolSize.Gi,projectID,pvStatus,pvcNamespace,pvcName,pvDirectory,workspaceVol
-pv-cnvrg-data-cache-commits,false,0%,1139212,0,10000,N/A,0,Bound,cnvrg,data-cache-pvc,cache_commits,N/A
+pv-cnvrg-data-cache-commits,false,0%,1151279,0,10000,N/A,0,Bound,cnvrg,data-cache-pvc,cache_commits,N/A
 pvc-ns-08296ac9-78ef-40e2-9a8c-aa543661c6c7,false,0%,0,30,30,N/A,4028170987,Bound,cnvrg,elastalert-storage,pvc-ns-08296ac9-78ef-40e2-9a8c-aa543661c6c7-projectId-4028170987,N/A
 pvc-ns-13a3f692-ff3f-433e-bcad-75e802f83619,false,37%,37,100,100,100,1921823872,Bound,cnvrg,mnhwbct7jztn8cypaaaa-new-pvc,pvc-ns-13a3f692-ff3f-433e-bcad-75e802f83619-projectId-1921823872,ATRTv4
 pvc-ns-27d0a37e-8bb3-42ca-bdbf-6c3ed085eff2,false,20%,41,200,200,200,156964889,Bound,cnvrg,hruxirqxcz7dxstncyzm-new-pvc,pvc-ns-27d0a37e-8bb3-42ca-bdbf-6c3ed085eff2-projectId-156964889,wtmb3
@@ -19,7 +19,7 @@ pvc-ns-6f4d116b-5670-443d-8254-daa06217cb93,false,5%,48,1000,1000,1000,211857239
 pvc-ns-7212ac2c-7fc3-4528-b583-24c4fb197138,false,3%,3,100,100,N/A,1414368966,Bound,cnvrg,capsule,pvc-ns-7212ac2c-7fc3-4528-b583-24c4fb197138-projectId-1414368966,N/A
 pvc-ns-78febc28-4236-4a08-be56-49d0b2237dfa,false,50%,5,10,10,10,3167115257,Bound,cnvrg,xthhgbrebe42qzznoflw-new-pvc,pvc-ns-78febc28-4236-4a08-be56-49d0b2237dfa-projectId-3167115257,cascaded-cnn
 pvc-ns-8fc4999c-1e0b-428f-8ae7-393ac32402b1,false,58%,58,100,100,100,2275473301,Bound,cnvrg,dyzbunpxkgsg9fw1hkha-new-pvc,pvc-ns-8fc4999c-1e0b-428f-8ae7-393ac32402b1-projectId-2275473301,brainmage2
-pvc-ns-8fef8bd2-7e92-4d3d-a03b-3ee0e8c9baf2,false,45%,45,100,100,N/A,3848757856,Bound,cnvrg,prometheus-cnvrg-infra,pvc-ns-8fef8bd2-7e92-4d3d-a03b-3ee0e8c9baf2-projectId-3848757856,N/A
+pvc-ns-8fef8bd2-7e92-4d3d-a03b-3ee0e8c9baf2,false,46%,46,100,100,N/A,3848757856,Bound,cnvrg,prometheus-cnvrg-infra,pvc-ns-8fef8bd2-7e92-4d3d-a03b-3ee0e8c9baf2-projectId-3848757856,N/A
 pvc-ns-99d36978-4d51-4a38-be8b-e026328f0c7b,false,14%,9,64,64,64,2619679184,Bound,cnvrg,ngmjhpsc6mwkusvwc7gs-new-pvc,pvc-ns-99d36978-4d51-4a38-be8b-e026328f0c7b-projectId-2619679184,cnn-opg
 pvc-ns-9f1fb7fa-a7a7-4a78-a1d3-287217bf4934,false,36%,36,100,100,100,3910473358,Bound,cnvrg,vqm4dcseme1br7soadda-new-pvc,pvc-ns-9f1fb7fa-a7a7-4a78-a1d3-287217bf4934-projectId-3910473358,ATRTv2
 pvc-ns-ba29e86a-3dd3-42be-8918-a9d774a1984f,false,0%,0,300,300,300,3154866361,Bound,cnvrg,ig7cqyovvvpvwmtxllwo-new-pvc,pvc-ns-ba29e86a-3dd3-42be-8918-a9d774a1984f-projectId-3154866361,medx
