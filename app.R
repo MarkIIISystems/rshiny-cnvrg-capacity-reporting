@@ -11,7 +11,7 @@ ui <- fluidPage(
         'input.dataset01 === "PV_Capacity_Details"',
         checkboxGroupInput("show_vars", "Columns in PV_Capacity_Details to show:",
                            names(PV_Capacity_Details), selected = names(PV_Capacity_Details))
-      )
+      ), width=2
     ),
     mainPanel(
       tabsetPanel(
